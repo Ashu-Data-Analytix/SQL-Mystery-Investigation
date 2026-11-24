@@ -9,6 +9,8 @@ A briefcase was stolen from the Blue Note Lounge. A witness saw a man in a trenc
 I filtered crime scene records by date, crime type, and location to retrieve the relevant incident and uncover the key clue.
 And Using witness description, I filtered suspects wearing a trench coat.
 
+![](https://github.com/Ashu-Data-Analytix/SQL-Mystery-Investigation/blob/main/SQL%20QUERY%20.png?raw=true)
+
 👣 Verifying through Interviews
 To connect suspect profiles with their interview records, I used a LEFT JOIN on the suspect IDs.
 I compared the matching
