@@ -13,8 +13,15 @@ And Using witness description, I filtered suspects wearing a trench coat.
 
 👣 Verifying through Interviews
 To connect suspect profiles with their interview records, I used a LEFT JOIN on the suspect IDs.
-I compared the matching
+I compared the matching profiles and interview transcripts to identify the suspect supported by the evidence.
 
+
+
+👣 Final Verdict Culprit : Vincent Malone - the crime scene due, matching suspect profile, and interview transcript confirmed Vincent Malone as the culprit.
+
+Key : This case Strengthened my ability to investigate data systematically, narrow down possibilities using filters, connect related tables, and verfy conclusions using evidence rather than assumptions.
+
+# SQL :  SELECT · WHERE · CAST · LIKE · AND · LEFT JOIN 
 
 
 
