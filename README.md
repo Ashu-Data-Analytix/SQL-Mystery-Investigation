@@ -1,7 +1,7 @@
 # SQL-Mystery-Investigation
 A practical SQL repository documenting case studies, queries, analysis, debugging, and solutions while strengthening analytical thinking and problem-solving skills.
 
-#Case #001: The Vanishing Briefcase (SQLNoir:https://www.sqlnoir.com/cases)
+### Case #001: The Vanishing Briefcase (SQLNoir:https://www.sqlnoir.com/cases)
 
 A briefcase was stolen from the Blue Note Lounge. A witness saw a man in a trench coat fleeing. Find the clues, match the suspect, and verify the culprit through interviews.
 
@@ -21,7 +21,7 @@ I compared the matching profiles and interview transcripts to identify the suspe
 
 Key : This case Strengthened my ability to investigate data systematically, narrow down possibilities using filters, connect related tables, and verfy conclusions using evidence rather than assumptions.
 
-# SQL :  SELECT · WHERE · CAST · LIKE · AND · LEFT JOIN 
+#### SQL :  SELECT · WHERE · CAST · LIKE · AND · LEFT JOIN 
 
 
 
