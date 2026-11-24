@@ -24,6 +24,8 @@ I compared the matching profiles and interview transcripts to identify the suspe
 
 👣 Final Verdict Culprit : Vincent Malone - the crime scene due, matching suspect profile, and interview transcript confirmed Vincent Malone as the culprit.
 
+![](https://github.com/Ashu-Data-Analytix/SQL-Mystery-Investigation/blob/main/CASE%20CLOSED%20%F0%9F%98%9C%F0%9F%8F%86.png?raw=true)
+
 Key : This case Strengthened my ability to investigate data systematically, narrow down possibilities using filters, connect related tables, and verfy conclusions using evidence rather than assumptions.
 
 #### SQL :  SELECT · WHERE · CAST · LIKE · AND · LEFT JOIN 
