@@ -20,7 +20,7 @@ To connect suspect profiles with their interview records, I used a LEFT JOIN on 
 
 I compared the matching profiles and interview transcripts to identify the suspect supported by the evidence.
 
-![](https://github.com/Ashu-Data-Analytix/SQL-Mystery-Investigation/blob/main/SQL%20QUERY%20_%20LEFT%20JOIN.png?raw=true)
+![](https://github.com/Ashu-Data-Analytix/SQL-Mystery-Investigation/blob/main/RESULT-L.JOIN.png?raw=true)
 
 👣 Final Verdict Culprit : Vincent Malone - the crime scene due, matching suspect profile, and interview transcript confirmed Vincent Malone as the culprit.
 
