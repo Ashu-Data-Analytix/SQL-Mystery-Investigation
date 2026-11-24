@@ -15,6 +15,9 @@ And Using witness description, I filtered suspects wearing a trench coat.
 
 👣 Verifying through Interviews
 To connect suspect profiles with their interview records, I used a LEFT JOIN on the suspect IDs.
+
+![](https://github.com/Ashu-Data-Analytix/SQL-Mystery-Investigation/blob/main/SQL%20QUERY%20_%20LEFT%20JOIN.png?raw=true)
+
 I compared the matching profiles and interview transcripts to identify the suspect supported by the evidence.
 
 
